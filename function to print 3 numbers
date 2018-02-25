@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a,b,c;
-printf("enter 3 values for a,b,c");
-scanf("%d%d%d",&a,&b,&c);
+int a=4,b=3,c=20;
 printf("%d%d%d",a,b,c);
 return 0;
 }
